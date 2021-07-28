@@ -22,14 +22,14 @@
 
 
 
-- 🔭 I’m currently working at [BrainDigit It Solution](https://braindigit.com).
+- 🔭 I’m currently working at [Technables It Solution](http://technables.com).
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on [Github](https://github.com/Asheshshrestha).
 - 🤔 I’m looking for help with Flutter documentation.
 - 💬 Ask me about Machine Learning or any tech related stuff.
 - 📫 How to reach me: [Twitter - @ashesh](https://twitter.com/AsheshShresth16) , [Facebook - @ashesh](https://www.facebook.com/ashesh.shrestha.7731/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: Start topic of Naruto and Marvel i will join any conversation.
 
 
 **Languages and Tools:**  
